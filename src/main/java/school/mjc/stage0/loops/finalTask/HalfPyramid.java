@@ -18,6 +18,6 @@ public class HalfPyramid {
     }
 
     public static void main(String[] args) {
-        new HalfPyramid().printHalfPyramid(0);
+        new HalfPyramid().printHalfPyramid(8);
     }
 }

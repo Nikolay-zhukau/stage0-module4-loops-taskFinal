@@ -18,9 +18,7 @@ public class Pyramid {
                 }
                 System.out.print(numByCol);
             }
-            for (int spaceIn = 0; spaceIn < spaceCount; spaceIn++) {
-                System.out.print(" ");
-            }
+
 
             System.out.println();
 
